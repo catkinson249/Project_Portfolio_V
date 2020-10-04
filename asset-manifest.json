@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/fusion_bar-app/static/css/main.bccead90.chunk.css",
+    "main.js": "/fusion_bar-app/static/js/main.c0ccce85.chunk.js",
+    "main.js.map": "/fusion_bar-app/static/js/main.c0ccce85.chunk.js.map",
+    "runtime-main.js": "/fusion_bar-app/static/js/runtime-main.12aae4ef.js",
+    "runtime-main.js.map": "/fusion_bar-app/static/js/runtime-main.12aae4ef.js.map",
+    "static/js/2.31e5bee9.chunk.js": "/fusion_bar-app/static/js/2.31e5bee9.chunk.js",
+    "static/js/2.31e5bee9.chunk.js.map": "/fusion_bar-app/static/js/2.31e5bee9.chunk.js.map",
+    "index.html": "/fusion_bar-app/index.html",
+    "precache-manifest.eaa92196df61a5ecdda4189391936582.js": "/fusion_bar-app/precache-manifest.eaa92196df61a5ecdda4189391936582.js",
+    "service-worker.js": "/fusion_bar-app/service-worker.js",
+    "static/css/main.bccead90.chunk.css.map": "/fusion_bar-app/static/css/main.bccead90.chunk.css.map",
+    "static/js/2.31e5bee9.chunk.js.LICENSE.txt": "/fusion_bar-app/static/js/2.31e5bee9.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/fusion_bar-app/static/media/landing.4623cde4.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.12aae4ef.js",
+    "static/js/2.31e5bee9.chunk.js",
+    "static/css/main.bccead90.chunk.css",
+    "static/js/main.c0ccce85.chunk.js"
+  ]
+}
