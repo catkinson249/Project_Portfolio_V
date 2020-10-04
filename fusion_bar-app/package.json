@@ -2,7 +2,7 @@
   "name": "fusion_bar-app",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://catkinson249.github.io/Project_Portfolio_V/fusion_bar-app/",
+  "homepage": "https://catkinson249.github.io/Project_Portfolio_V/",
   "dependencies": {
     "@testing-library/jest-dom": "^4.2.4",
     "@testing-library/react": "^9.3.2",
