@@ -4,7 +4,7 @@ import Header from './components/Header'
 import Search from './components/Search'
 import Random from './components/Random'
 
-import { BrowserRouter as Router, Switch, Route, Link } from "react-router-dom";
+import { HashRouter as Router, Switch, Route, Link } from "react-router-dom";
 
 
 class App extends Component {
